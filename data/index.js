@@ -1,7 +1,7 @@
-import noun from './data/noun.js'
-import adjective from './data/adjective.js'
-import verb from './data/verb.js'
-import adverb from './data/adverb.js'
+import noun from './noun.js'
+import adjective from './adjective.js'
+import verb from './verb.js'
+import adverb from './adverb.js'
 
 export default {
   noun,
