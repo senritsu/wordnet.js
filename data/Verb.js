@@ -1,4 +1,4 @@
-exports.data = [{
+export default [{
   id: "crackle.verb.03",
   lexname: "verb.change",
   syntactic_category: "Verb",
