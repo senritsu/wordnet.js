@@ -1,5 +1,5 @@
-import {unique, flatten} from './helpers'
-import data from './data'
+import {unique, flatten} from './helpers.js'
+import data from './data/index.js'
 
 function fast_search (str, k) {
   let founds = []
